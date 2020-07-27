@@ -1,4 +1,4 @@
-# http_requests_flood
+# HTTP REQUEST FLOODER
 
 Requirements:
 -pip3 install requests
