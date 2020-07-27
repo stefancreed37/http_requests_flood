@@ -1,13 +1,13 @@
 # HTTP REQUEST FLOODER
 
-Requirements:
+# Requirements:
 ----------------------
 -pip3 install requests
 ----------------------
 -Python 3.+ version [2.7+ fine too]
 ----------------------
 --------
-Usage: 
+# Usage: 
 --------
 -webreq.py --host [Website]
 ---------
